@@ -113,4 +113,5 @@ The scrpit will be activated which will pull in Docker images and will create th
 **Use web interface to finish installation**
 Using any web browser within your VM, enter `http://localhost.8080` in the search bar and this will prompt you instructions to finish your worpress installation. 
 
-Once set up your interface will look like this. 
+Once set up your interface will the png in the docker github
+
